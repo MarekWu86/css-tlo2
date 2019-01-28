@@ -1,0 +1,8 @@
+.container {
+    height: 400px;
+    width: 400px;
+    background-color: grey;
+    background-image: url(bicycle-bike-black-and-white-41074.jpg);
+    background-size: cover;
+    background-position: center;
+}
